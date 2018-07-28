@@ -3,10 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "amplitudejs": "^3.3.0",
     "axios": "^0.18.0",
     "react": "^16.4.1",
+    "react-audio-player": "^0.10.0",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-player": "^1.6.4",
+    "react-rangeslider": "^2.2.0",
+    "react-responsive-music-player": "^0.3.0",
+    "react-scripts": "1.1.4",
+    "spotify-web-api-node": "^3.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
